@@ -1,0 +1,64 @@
+.aboutMe_profile_img {
+  width: 25em;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.block_aboutMe {
+  display: flex;
+  width: 100%;
+  height: 500px;
+  align-items: center;
+  background: #b05555a1;
+}
+
+.aboutMe_right_block {
+  width: 50%;
+  text-align: center;
+}
+.aboutMe_left_block {
+  width: 50%;
+  text-align: center;
+}
+
+.aboutMe_right_block_title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  color: #fff;
+}
+.aboutMe_right_block_desc {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+  line-height: 30px;
+  color: #fff;
+}
+
+.aboutMe_block_btn {
+  width: 164px;
+  height: 36px;
+  font-size: 17px;
+  letter-spacing: 1.88px;
+  font-weight: 700;
+  border-radius: 9px;
+  border: 1px solid gray;
+  background: rgba(255, 255, 255, 0.49);
+}
+
+.aboutMe_block_btn:hover {
+  background: #fff;
+}
+
+.aboutMe_block_icons {
+  margin: 0;
+}
+
+.aboutMe_icons {
+  margin: 50px 10px;
+}
+.aboutMe_icons:hover {
+  width: 1em;
+}

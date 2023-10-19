@@ -1,0 +1,21 @@
+.navbar_list__item_logo {
+  font-family: "Pattaya", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+}
+.navbar_list {
+  width: 60%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar {
+  width: 100%;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  background: #b74c4c6b;
+}

@@ -1,0 +1,9 @@
+.footer_title {
+    text-align: center;
+    color: #fff;
+    border: 1px solid gray;
+}
+footer {
+    background: #B74C4C59;
+    height: 100px;
+}
